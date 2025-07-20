@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Bilibili Gaming",
+    "abbreviation": "BLG",
+    "founded": 2017,
+    "location": "Shenzhen",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Bilibili_Gaming_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Edward Gaming",
+    "abbreviation": "EDG",
+    "founded": 2013,
+    "location": "Shanghai",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Edward_Gaming_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "FunPlus Phoenix",
+    "abbreviation": "FPX",
+    "founded": 2017,
+    "location": "Beijing",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2a/FunPlus_Phoenix_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Invictus Gaming",
+    "abbreviation": "IG",
+    "founded": 2011,
+    "location": "Shanghai",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Invictus_Gaming_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "JD Gaming",
+    "abbreviation": "JDG",
+    "founded": 2017,
+    "location": "Beijing",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/JD_Gaming_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "LGD Gaming",
+    "abbreviation": "LGD",
+    "founded": 2009,
+    "location": "Hangzhou",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/LGD_Gaming_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "LNG Esports",
+    "abbreviation": "LNG",
+    "founded": 2013,
+    "location": "Suzhou",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/LNG_Esports_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Ninjas in Pyjamas",
+    "abbreviation": "NIP",
+    "founded": 2023,
+    "location": "Shenzhen",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/Ninjas_in_Pyjamas_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Oh My God",
+    "abbreviation": "OMG",
+    "founded": 2012,
+    "location": "Chengdu",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6d/OMG_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Rare Atom",
+    "abbreviation": "RA",
+    "founded": 2021,
+    "location": "Qingdao",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Rare_Atom_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Royal Never Give Up",
+    "abbreviation": "RNG",
+    "founded": 2015,
+    "location": "Shanghai",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/RNG_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Team WE",
+    "abbreviation": "WE",
+    "founded": 2005,
+    "location": "Xi'an",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/Team_WE_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "ThunderTalk Gaming",
+    "abbreviation": "TT",
+    "founded": 2020,
+    "location": "Changsha",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/ThunderTalk_Gaming_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Top Esports",
+    "abbreviation": "TES",
+    "founded": 2017,
+    "location": "Tianjin",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/Top_Esports_logo.png",
+    "currentRoster": [],
+    "coach": null
+  },
+  {
+    "name": "Ultra Prime",
+    "abbreviation": "UP",
+    "founded": 2021,
+    "location": "Nanjing",
+    "logoUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/40/Ultra_Prime_logo.png",
+    "currentRoster": [],
+    "coach": null
+  }
+]
