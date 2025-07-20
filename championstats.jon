@@ -1,0 +1,23 @@
+[
+  {
+    "champion": "Aatrox",
+    "pickRate": 0,
+    "banRate": 0,
+    "winRate": 0,
+    "avgKills": 0,
+    "avgDeaths": 0,
+    "avgAssists": 0,
+    "avgGoldPerMinute": 0
+  },
+  {
+    "champion": "Ahri",
+    "pickRate": 0,
+    "banRate": 0,
+    "winRate": 0,
+    "avgKills": 0,
+    "avgDeaths": 0,
+    "avgAssists": 0,
+    "avgGoldPerMinute": 0
+  }
+  /* … ripeti per tutti i 171 champion … */
+]
