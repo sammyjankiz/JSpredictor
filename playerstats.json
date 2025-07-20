@@ -1,0 +1,23 @@
+[
+  {
+    "name": "369",
+    "team": "TES",
+    "role": "Top",
+    "winRate": 0,
+    "kda": 0,
+    "avgCSperMinute": 0,
+    "avgGoldPerMinute": 0,
+    "killParticipation": 0
+  },
+  {
+    "name": "Tian",
+    "team": "TES",
+    "role": "Jungle",
+    "winRate": 0,
+    "kda": 0,
+    "avgCSperMinute": 0,
+    "avgGoldPerMinute": 0,
+    "killParticipation": 0
+  }
+  /* … aggiungi tutti i giocatori LPL dei 15 team … */
+]
